@@ -34,7 +34,7 @@ const AboutUs = () => {
             <p>If you find yourself thinking,'I need movers near me in Hyderabad Telangana that will go the extra mile to take care of my belongings', then Element should be your first call. 
                 We practice a “Culture of Care,” where we’re devoted to preserving the condition of your items during a move.
             </p>
-            <p>Contact our Delhi local packers and movers and talk to them about your needs.
+            <p>Contact our Hyderabad local packers and movers and talk to them about your needs.
                 We would be happy to offer you a free proposal and estimate.</p>
         </div>
     )
